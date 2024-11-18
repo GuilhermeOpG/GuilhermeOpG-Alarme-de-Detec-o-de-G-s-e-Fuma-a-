@@ -26,7 +26,7 @@ Este projeto apresenta um sistema de detecção de gases inflamáveis e fumaça 
 4. Monitore os alertas no aplicativo.
 
 ## Resultados e Testes
-O sistema foi testado para garantir estabilidade da conexão Wi-Fi, sensibilidade do sensor e envio de notificações em tempo real. Para mais detalhes, consulte a [documentação completa](docs/documentation.md).
+O sistema foi testado para garantir estabilidade da conexão Wi-Fi, sensibilidade do sensor e envio de notificações em tempo real. 
 
 ---
 Desenvolvido por Luiz G.
